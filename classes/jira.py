@@ -1,1 +1,0 @@
-/home/dk/workstation/dobry-kod.ru/Jira/classes/jira.py
