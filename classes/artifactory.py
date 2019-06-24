@@ -1,0 +1,1 @@
+/home/dk/workstation/dobry-kod.ru/Artifactory/classes/artifactory.py
